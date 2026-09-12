@@ -1,6 +1,4 @@
 # projeto-pipeline-atlas
-# 🚀 Atlas Pipeline
-
 ## 📌 Sobre o Projeto
 
 O **Atlas Pipeline** é uma solução de **Engenharia de Dados** desenvolvida para automatizar o processo de coleta, tratamento, consolidação e disponibilização dos dados de vendas de **Cursos Livres** da plataforma Atlas.
