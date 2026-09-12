@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Atlas Pipeline
 =======
 ## 📌 Sobre o Projeto
