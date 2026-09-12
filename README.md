@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 # 🚀 Atlas Pipeline
-
 =======
-# Pipeline_Atlas
->>>>>>> b452f9ec2789fa0631bcfaf3878e90bda92e0eab
 ## 📌 Sobre o Projeto
 
 O **Atlas Pipeline** é uma solução de **Engenharia de Dados** desenvolvida para automatizar o processo de coleta, tratamento, consolidação e disponibilização dos dados de vendas de **Cursos Livres** da plataforma Atlas.
