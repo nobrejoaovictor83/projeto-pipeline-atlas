@@ -1,18 +1,14 @@
 import pandas as pd
 from databricks import sql
 
-ARQUIVO = (
-    r"C:\Users\joao.maciel\OneDrive - Corporativo"
-    r"\Pós e Novos Produtos - Bases\ATLAS"
-    r"\Cursos Livres\vendas_consolidado.csv"
-)
+ARQUIVO = (r"C:\SEU_CAMINHO\ATLAS\Cursos Livres/vendas_consolidado.csv")
 
 HOST = (
-    "adb-2998601209865227.7.azuredatabricks.net"
+    "<DATABRICKS_HOST>"
 )
 
 HTTP_PATH = (
-    "/sql/1.0/warehouses/59556454aa38ba1a"
+    "<DATABRICKS_HTTP_PATH>"
 )
 
 # ==========================================
