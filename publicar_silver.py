@@ -1,9 +1,6 @@
 import pandas as pd
 
-ARQUIVO = (
-    r"C:\Users\joao.maciel\OneDrive - Corporativo"
-    r"\Pós e Novos Produtos - Bases\ATLAS"
-    r"\Cursos Livres\vendas_consolidado.csv"
+ARQUIVO = (vendas_consolidado.csv"
 )
 
 # ==========================================
